@@ -1,5 +1,3 @@
-#CSE327.Project.Team05
-
 EventBook
 - 
 A platform for participating & hosting Event
